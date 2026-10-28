@@ -1,0 +1,7 @@
+{
+  "name": "VyaparConnect AI",
+  "description": "Intelligent local commerce platform connecting neighborhood retailers and customers with live catalogues and multilingual voice assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
